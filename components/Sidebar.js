@@ -5,7 +5,7 @@ import {
   PlusCircleIcon,
   HeartIcon,
   RssIcon,
-} from '@heroIcons/react/outline';
+} from '@heroicons/react/outline';
 import { signOut, useSession } from 'next-auth/react';
 import { useEffect, useState } from 'react';
 import { RecoilState, useRecoilState } from 'recoil';
